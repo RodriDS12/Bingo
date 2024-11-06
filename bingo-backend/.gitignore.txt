@@ -1,0 +1,50 @@
+# .NET
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+bin/
+obj/
+out/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+Thumbs.db
+
+# JetBrains Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Tye
+.tye/
+
+# Local db files
+appsettings.Development.json
+
+# Entity Framework Core Migrations
+# Ignore EF Core migration files for specific environments (if you don't want them in git)
+Migrations/
+
+# Visual Studio for Mac
+.vscode/
+
+# Node.js modules (if using Angular or other frontend frameworks)
+node_modules/
+
+# .env files (if using environment variables for local development)
+.env
