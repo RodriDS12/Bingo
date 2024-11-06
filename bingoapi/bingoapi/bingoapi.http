@@ -1,6 +1,0 @@
-@bingoapi_HostAddress = http://localhost:5168
-
-GET {{bingoapi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

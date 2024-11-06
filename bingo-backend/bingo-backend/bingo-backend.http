@@ -1,0 +1,6 @@
+@bingo_backend_HostAddress = http://localhost:5086
+
+GET {{bingo_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

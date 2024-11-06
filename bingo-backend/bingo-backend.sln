@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bingo-backend", "bingo-backend\bingo-backend.csproj", "{C7C36F30-3171-404B-8669-72667C019C9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7C36F30-3171-404B-8669-72667C019C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C36F30-3171-404B-8669-72667C019C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C36F30-3171-404B-8669-72667C019C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C36F30-3171-404B-8669-72667C019C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA1AFC2A-1D7C-4BAA-A57E-17BAE52C1E74}
+	EndGlobalSection
+EndGlobal
